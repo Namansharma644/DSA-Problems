@@ -8,34 +8,76 @@ public:
         int j=0;
         int k=0;
 
-        vector<int>temp(n+m);
+        int idx1=(n+m)/2;
+        int idx2=(n+m)/2-1;
+
+        int element1,element2;
 
         while(i<nums1.size() && j<nums2.size())
         {
             if(nums1[i]<nums2[j])
             {
-               temp[k++]=nums1[i++];
+              if(k==idx1)
+              {
+                element1=nums1[i];
+              }
+
+              if(k==idx2)
+              {
+                element2=nums1[i];
+              }
+              i++;
             }
             else
             {
-                temp[k++]=nums2[j++];
+                if(k==idx1)
+                {
+                    element1=nums2[j];
+                }
+
+                if(k==idx2)
+                {
+                    element2=nums2[j];
+                }
+                j++;
             }
+            k++;
         }
 
         while(i<nums1.size())
         {
-            temp[k++]=nums1[i++];
+                if(k==idx1)
+                {
+                    element1=nums1[i];
+                }
+
+                if(k==idx2)
+                {
+                    element2=nums1[i];
+                }
+                k++;
+                i++;
         }
 
         while(j<nums2.size())
         {
-            temp[k++]=nums2[j++];
+               if(k==idx1)
+                {
+                    element1=nums2[j];
+                }
+
+                if(k==idx2)
+                {
+                    element2=nums2[j];
+                }
+                k++;
+                j++;
         }
 
         if((n+m) % 2 == 1)
         {
-            return temp[(n+m)/2];
+            return element1;
         }
-        return (temp[(n+m)/2]+temp[(n+m)/2-1])/2.0;
+        return (element1+element2)/2.0;
     }
 };
