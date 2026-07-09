@@ -26,29 +26,19 @@ public:
             }
         }
 
-        int close=0;
         string res="";
         for(int i=temp.size()-1; i>=0; i--)
         {
-            if(temp[i]==')')
+            if(temp[i]=='(' && open>0)
             {
-                close++;
-                res.push_back(temp[i]);
-            }
-            else if(temp[i]=='(')
-            {
-                if(close>0)
-                {
-                    res.push_back(temp[i]);
-                    close--;
-                }
+                open--;
             }
             else
             {
-              res.push_back(temp[i]);
+                res.push_back(temp[i]);
             }
         }
-
+        
         reverse(res.begin(),res.end());
         return res;
     }
