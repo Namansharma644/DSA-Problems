@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0402-remove-k-digits) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Stack
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0735-asteroid-collision) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0735-asteroid-collision) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
