@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0402-remove-k-digits) |
+| [0856-score-of-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0856-score-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Stack
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
