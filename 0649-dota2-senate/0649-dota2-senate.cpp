@@ -1,54 +1,41 @@
 class Solution {
 public:
-    bool check(string &senate,int idx,char ch)
+    void check(string &senate,int idx,char ch,vector<bool>&remove)
     {
-        bool checkLeft=false;
-
         while(true)
         {
-            if(idx==0)
+            
+            if(senate[idx]==ch && remove[idx]==false)
             {
-                checkLeft=true;
-            }
-
-            if(senate[idx]==ch)
-            {
-                senate.erase(senate.begin()+idx);
+                remove[idx]=true;
                 break;
             }
 
             idx=(idx+1)%(senate.size());
         }
-     return checkLeft;
     }
     string predictPartyVictory(string senate) {
         
         int idx=0;
         int Rcount=count(senate.begin(),senate.end(),'R');
         int Dcount=senate.size()-Rcount;
+        vector<bool>remove(senate.size(),false);
 
         while(Rcount>0 && Dcount>0)
         {
-            bool checkLeft=false;
-            if(senate[idx]=='R')
+            if(remove[idx]==false)
             {
-                checkLeft=check(senate,(idx+1)%(senate.size()),'D');
-                Dcount--;
-                if(checkLeft)
+                if(senate[idx]=='R')
                 {
-                    idx--;
+                    check(senate,(idx+1)%(senate.size()),'D',remove);
+                    Dcount--;
                 }
-            }
-            else
-            {
-                checkLeft=check(senate,(idx+1)%(senate.size()),'R');
-                Rcount--;
-                if(checkLeft)
+                else
                 {
-                    idx--;
-                }
+                    check(senate,(idx+1)%(senate.size()),'R',remove);
+                    Rcount--;
+                }  
             }
-            
             idx=(idx+1)%(senate.size());
         }
         return (Rcount==0) ? "Dire" : "Radiant";
