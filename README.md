@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0410-split-array-largest-sum) |
+| [0649-dota2-senate](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0649-dota2-senate) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0402-remove-k-digits) |
+| [0649-dota2-senate](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0649-dota2-senate) |
 | [0856-score-of-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0933-number-of-recent-calls) |
 ## Hash Table
 |  |
