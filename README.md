@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2643-row-with-maximum-ones](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2643-row-with-maximum-ones) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0735-asteroid-collision) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Recursion
 |  |
 | ------- |
