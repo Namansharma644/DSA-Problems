@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0622-design-circular-queue](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0933-number-of-recent-calls) |
 ## Queue
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
