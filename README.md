@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -217,6 +219,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0641-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
