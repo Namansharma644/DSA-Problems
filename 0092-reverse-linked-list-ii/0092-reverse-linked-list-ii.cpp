@@ -14,54 +14,25 @@ public:
             if (head == NULL || left == right)
             return head;
 
-           ListNode* temp=head;
-           ListNode* prev=NULL;
-           ListNode* nextNode=NULL;
-           ListNode* front=NULL;
-           ListNode* Back=NULL;
-           ListNode* l=NULL;
-           ListNode* r=NULL;
+            ListNode* dummy=new ListNode(-1);
+            dummy->next=head;
 
-           int i=0;
+            ListNode* prev=dummy;
+            for(int i=1; i<left; i++)
+            {
+                prev=prev->next;
+            }
 
-           while(i<right)
-           {
-             if(i==left-2){
-                front=temp;
-             }
-             if(i==left-1){
-                l=temp;
-                prev=NULL;
-             }
-             if(i==right-1){
-                r=temp;
-             }
+            ListNode* curr=prev->next;
 
-             if(i>=left-1)
-             {
-                nextNode=temp->next;
-                temp->next=prev;
-                prev=temp;
-                temp=nextNode;
-             }
-             else
-             {
-                prev=temp;
-                temp=temp->next;
-             }
-            i++;
-           }
+            for(int i=0; i<(right-left); i++)
+            {
+               ListNode* temp=prev->next;
+               prev->next=curr->next;
+               curr->next=curr->next->next;
+               prev->next->next=temp;
+            }
 
-           if(r->next!=NULL)
-           {
-             l->next=temp;
-           }
-
-           if(l!=head)
-           {
-              front->next=r;
-           }
-          
-          return (left==1) ? prev : head;
+            return dummy->next;
     }
 };
