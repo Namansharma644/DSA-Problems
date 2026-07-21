@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0876-middle-of-the-linked-list) |
