@@ -13,14 +13,15 @@ public:
         return sum;
     }
     bool isHappy(int n) {
-        unordered_set<int>st;
+       int slow=n;
+       int fast=getNext(n);
 
-        while(n!=1 && st.find(n)==st.end())
-        {
-            st.insert(n);
-            n=getNext(n);
-        }
+       while(fast!=1 && slow!=fast)
+       {
+          slow=getNext(slow);
+          fast=getNext(getNext(fast));
+       }
 
-        return n==1;
+       return fast==1;
     }
 };
