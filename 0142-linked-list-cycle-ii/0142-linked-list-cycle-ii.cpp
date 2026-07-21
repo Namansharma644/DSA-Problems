@@ -9,10 +9,7 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        if(head==NULL)
-        {
-            return head;
-        }
+       
         unordered_set<ListNode*>st;
 
         while(head!=NULL)
