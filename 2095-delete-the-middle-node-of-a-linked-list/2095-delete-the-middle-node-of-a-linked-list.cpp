@@ -15,19 +15,20 @@ public:
         {
             return NULL;
         }
-        ListNode* slow=head;
+        ListNode* dummy=new  ListNode(-1);
+        dummy->next=head;
+        ListNode* slow=dummy;
         ListNode* fast=head;
-        ListNode* prev=NULL;
 
         while(fast!=NULL && fast->next!=NULL)
         {
-            prev=slow;
             slow=slow->next;
             fast=fast->next->next;
         }
 
-        prev->next=slow->next;
-        delete slow;
-        return head;
+        ListNode* dele=slow->next;
+        slow->next=slow->next->next; 
+        delete dele;
+        return dummy->next;
     }
 };
