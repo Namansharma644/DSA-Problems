@@ -8,31 +8,44 @@
  */
 class Solution {
 public:
-    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        if(!headA ||!headB)
-        {
-            return NULL;
-        }
-        unordered_map<ListNode* ,int>m;
-
-        ListNode* temp=headA;
-
-        while(temp!=nullptr)
-        {
-            m[temp]=1;
-            temp=temp->next;
-        }
-
-        temp=headB;
+    int len(ListNode *head)
+    {
+        int size=0;
+        ListNode* temp=head;
 
         while(temp!=NULL)
         {
-            if(m.find(temp)!=m.end())
-            {
-                return temp;
-            }
+            size++;
             temp=temp->next;
         }
-        return NULL;
+        return size;
+    }
+    ListNode*  collide(ListNode *t1, ListNode *t2,int d)
+    {
+        while(d--)
+        {
+            t1=t1->next;
+        }
+
+        while(t1!=t2)
+        {
+            t1=t1->next;
+            t2=t2->next;
+        }
+        return t1;
+    }
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        if(!headA || !headB)
+        {
+            return NULL;
+        }
+        int n1=len(headA);
+        int n2=len(headB);
+
+        if(n1>n2)
+        {
+            return collide(headA,headB,n1-n2);
+        }
+        return collide(headB,headA,n2-n1);
     }
 };
