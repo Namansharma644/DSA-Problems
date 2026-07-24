@@ -18,46 +18,42 @@ class Solution {
 public:
     Node* copyRandomList(Node* head) {
         if(head==NULL) return NULL;
-        unordered_map<Node*, Node*>m;
-
-        Node* prev=NULL;
+        //insertion
         Node* curr=head;
-        Node* newHead=NULL;
-
         while(curr)
         {
             Node* newNode=new Node(curr->val);
-            m[curr]=newNode;
-            if(prev==NULL)
-            {
-                newHead=newNode;
-                prev=newHead;
-            }
-            else
-            {
-                prev->next=newNode;
-                prev=newNode;
-            }
-            curr=curr->next;
+            Node* temp=curr->next;
+            curr->next=newNode;
+            newNode->next=temp;
+            curr=temp;
         }
 
-         curr=head;
-         Node* newCurr=newHead;
+        //random pointer management
+        curr=head;
 
-         while(curr && newCurr)
-         {
-            if(!curr->random)
-            {
-                newCurr->random=NULL;
-            }
-            else
-            {
-                newCurr->random=m[curr->random];
-            }
+        while(curr)
+        {
+                if(curr->random)
+                    curr->next->random = curr->random->next;
+                else
+                    curr->next->random = NULL;
 
+                curr = curr->next->next;
+        }
+
+        //speration of both ll
+        curr=head;
+        Node* newHead=curr->next;
+        Node* newCurr=curr->next;
+
+        while(curr && newCurr)
+        {
+            curr->next=(curr->next==NULL) ? NULL : curr->next->next;
+            newCurr->next=(newCurr->next==NULL) ? NULL : newCurr->next->next;
             curr=curr->next;
             newCurr=newCurr->next;
-         }
-         return newHead;
+        }
+        return newHead;
     }
 };
