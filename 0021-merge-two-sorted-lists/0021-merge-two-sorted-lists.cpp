@@ -14,17 +14,24 @@ public:
         if(!list1) return list2;
         if(!list2) return list1;
 
-        ListNode* res=NULL;
-        if(list1->val<list2->val)
-        {
-            res=list1;
-            res->next=mergeTwoLists(list1->next,list2);
-        }
-        else
-        {
-            res=list2;
-            res->next=mergeTwoLists(list1,list2->next);
-        }
-        return res;
+       ListNode* head=new ListNode(-1);
+       ListNode* temp=head;
+       while(list1 && list2)
+       {
+          if(list1->val<list2->val)
+          {
+             temp->next=list1;
+             temp=temp->next;
+             list1=list1->next;
+          }
+          else
+          {
+             temp->next=list2;
+             temp=temp->next;
+             list2=list2->next;
+          }
+       }
+       temp->next=(list1) ?  list1 : list2;
+       return head->next;
     }
 };
