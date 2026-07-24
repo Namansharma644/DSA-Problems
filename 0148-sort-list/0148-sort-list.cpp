@@ -22,23 +22,30 @@ public:
         }
         return slow;
     }
-    ListNode* merge2List(ListNode* l1,ListNode* l2)
+    ListNode* merge2List(ListNode* list1,ListNode* list2)
     {
-        if(!l1) return l2;
-        if(!l2) return l1;
+       if(!list1) return list2;
+       if(!list2) return list1;
 
-        ListNode* res=NULL;
-        if(l1->val<l2->val)
-        {
-            res=l1;
-            res->next=merge2List(l1->next,l2);
-        }
-        else
-        {
-            res=l2;
-            res->next=merge2List(l1,l2->next);
-        }
-        return res;
+       ListNode* head=new ListNode(-1);
+       ListNode* temp=head;
+       while(list1 && list2)
+       {
+          if(list1->val<list2->val)
+          {
+             temp->next=list1;
+             temp=temp->next;
+             list1=list1->next;
+          }
+          else
+          {
+             temp->next=list2;
+             temp=temp->next;
+             list2=list2->next;
+          }
+       }
+       temp->next=(list1) ?  list1 : list2;
+       return head->next;
     }
     ListNode* sortList(ListNode* head) {
         if(!head || !head->next)
