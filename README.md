@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0086-partition-list) |
@@ -272,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
