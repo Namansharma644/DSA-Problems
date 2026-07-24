@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0148-sort-list) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0234-palindrome-linked-list) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0234-palindrome-linked-list) |
@@ -279,4 +283,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
