@@ -10,42 +10,29 @@
  */
 class Solution {
 public:
-    ListNode* findMid(ListNode* head)
-    {
-        ListNode* slow=head;
-        ListNode* fast=head;
-
-        while(fast && fast->next)
-        {
-            slow=slow->next;
-            fast=fast->next->next;
-        }
-        return slow;
-    }
-    ListNode* reverse(ListNode* head)
-    {
-        if(!head || !head->next)
-        {
-            return head;
-        }
-        ListNode* last=reverse(head->next);
-        head->next->next=head;
-        head->next=NULL;
-        return last;
-    }
     void reorderList(ListNode* head) {
-        ListNode* mid=findMid(head);
-        ListNode* curr=head;
-        ListNode* rev=reverse(mid);
+        stack<ListNode*>s;
+        ListNode* temp=head;
 
-        while(rev->next)
+        while(temp)
         {
-            ListNode* tempCurr=curr->next;
-            curr->next=rev;
-            ListNode* tempRev=rev->next;
-            rev->next=tempCurr;
-            rev=tempRev;
-            curr=tempCurr;
+            s.push(temp);
+            temp=temp->next;
         }
+
+        int k=s.size()/2;
+        ListNode* curr=head;
+
+        while(k--)
+        {
+            ListNode* topNode=s.top();
+            s.pop();
+            ListNode* temp=curr->next;
+            curr->next=topNode;
+            topNode->next=temp;
+            curr=temp;
+        }
+
+        curr->next=NULL;
     }
 };
