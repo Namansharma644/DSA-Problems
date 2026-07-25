@@ -9,30 +9,27 @@
  * };
  */
 class Solution {
-public:
+public:  
+    ListNode* curr;
+    void solve(ListNode* head)
+    {
+       if(!head)
+        {
+            return;
+        }
+        solve(head->next);
+        ListNode* temp=curr->next;
+        if(!curr->next) return;
+        if(curr==head){
+            curr->next=NULL;
+            return;
+        }
+        curr->next=head;
+        head->next=(temp==head) ? NULL : temp;
+        curr=temp;
+    }
     void reorderList(ListNode* head) {
-        stack<ListNode*>s;
-        ListNode* temp=head;
-
-        while(temp)
-        {
-            s.push(temp);
-            temp=temp->next;
-        }
-
-        int k=s.size()/2;
-        ListNode* curr=head;
-
-        while(k--)
-        {
-            ListNode* topNode=s.top();
-            s.pop();
-            ListNode* temp=curr->next;
-            curr->next=topNode;
-            topNode->next=temp;
-            curr=temp;
-        }
-
-        curr->next=NULL;
+        curr=head;
+        solve(head);
     }
 };
