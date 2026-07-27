@@ -10,13 +10,13 @@ public:
             q.push(i);
         }
 
-        while(!q.empty() && tickets[k]>0)
+        while(!q.empty() && tickets[k]!=0)
         {
             int idx=q.front();
             q.pop();
 
             tickets[idx]--;
-            if(tickets[idx]>0)
+            if(tickets[idx]!=0)
             {
                 q.push(idx);
             }
