@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Enumeration
