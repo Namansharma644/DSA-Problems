@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0035-search-insert-position) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0410-split-array-largest-sum) |
 | [0649-dota2-senate](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0649-dota2-senate) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0086-partition-list) |
