@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0085-maximal-rectangle) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0148-sort-list) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0142-linked-list-cycle-ii) |
