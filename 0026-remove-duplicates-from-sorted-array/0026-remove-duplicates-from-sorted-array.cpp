@@ -11,6 +11,7 @@ public:
                 i++;
                 nums[i]=nums[j];
             }
+
             j++;
         }
         return i+1;
