@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0035-search-insert-position) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0148-sort-list) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0086-partition-list) |
