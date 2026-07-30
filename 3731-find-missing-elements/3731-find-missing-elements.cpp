@@ -2,23 +2,23 @@ class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
         int n=nums.size();
-        sort(nums.begin(),nums.end());
-        int i=0;
-        int num=nums[0];
+        unordered_set<int>s;
         vector<int>ans;
 
-        while(i<n)
+        for(int i=0; i<n; i++)
         {
-           if(nums[i]!=num)
-           {
-               ans.push_back(num);
-               num++;
-           }
-           else
-           {
-                num++;
-                i++;
-           }
+            s.insert(nums[i]);
+        }
+
+        int start=*min_element(nums.begin(),nums.end());
+        int end=*max_element(nums.begin(),nums.end());
+
+        for(int i=start; i<=end; i++)
+        {
+            if(s.find(i)==s.end())
+            {
+                ans.push_back(i);
+            }
         }
         return ans;
     }
