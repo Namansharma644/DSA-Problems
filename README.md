@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2643-row-with-maximum-ones](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2643-row-with-maximum-ones) |
+| [3731-find-missing-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0148-sort-list) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [3731-find-missing-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0496-next-greater-element-i) |
+| [3731-find-missing-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
