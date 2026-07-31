@@ -10,8 +10,6 @@ public:
             if(count==0)
             {
                 maj=nums[i];
-                count=1;
-                continue;
             }
 
             if(maj==nums[i])
