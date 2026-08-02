@@ -4,19 +4,26 @@ public:
         int n=nums.size();
         int res=0;
         int currSum=0;
-        unordered_map<int,int>m;
-        m[0]=1;
+        int i=0,j=0;
+        int currZero=0;
 
-        for(int &num : nums)
+        while(j<n)
         {
-            currSum+=num;
+            currSum+=nums[j];
 
-            if(m.find(currSum-goal)!=m.end())
+            while(i<j && (nums[i]==0 || currSum>goal))
             {
-                res+=m[currSum-goal];
+                 (nums[i]==0) ? currZero++ : currZero=0;
+                 currSum-=nums[i];
+                 i++;
             }
 
-            m[currSum]++;
+            if(currSum==goal)
+            {
+                res+=(1+currZero);
+            }
+
+            j++;
         }
         return res;
     }
