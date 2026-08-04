@@ -21,8 +21,8 @@ public:
         long long sumDiff=gridSum-sum;
         long long squareDiff=gridSquareSum-squareSum;
 
-        int a=(sumDiff+squareDiff/sumDiff)/2;
-        int b=(squareDiff/sumDiff-sumDiff)/2;
+        int  a=(sumDiff+squareDiff/sumDiff)/2;
+        int  b=(squareDiff/sumDiff-sumDiff)/2;
         return {a,b};
     }
 };
