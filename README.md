@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2643-row-with-maximum-ones](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2643-row-with-maximum-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2643-row-with-maximum-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0227-basic-calculator-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [2965-find-missing-and-repeated-values](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
 |  |
