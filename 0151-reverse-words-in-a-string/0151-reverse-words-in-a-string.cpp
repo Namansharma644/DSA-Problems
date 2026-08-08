@@ -2,15 +2,29 @@ class Solution {
 public:
     string reverseWords(string s) {
         int n=s.size();
-        stringstream ss(s);
-        string token="";
-        string res="";
+        reverse(s.begin(),s.end());
+        int i=0;
+        int l=0;
+        int r=0;
 
-        while(ss>>token)
+        while(i<n)
         {
-            res=token+" "+res;
+           while(i<n && s[i]!=' ')
+           {
+               s[r++]=s[i++];
+           }
+
+           if(l<r)
+           {
+              reverse(s.begin()+l ,s.begin()+r);
+
+              s[r++]=' ';
+              l=r;
+           }
+           
+            i++;
         }
 
-        return res.substr(0,res.length()-1);
+        return s.substr(0,r-1);
     }
 };
