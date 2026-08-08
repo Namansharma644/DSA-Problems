@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0242-valid-anagram) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0143-reorder-list) |
