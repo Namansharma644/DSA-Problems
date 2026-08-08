@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0071-simplify-path) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0073-set-matrix-zeroes) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Heap (Priority Queue)
