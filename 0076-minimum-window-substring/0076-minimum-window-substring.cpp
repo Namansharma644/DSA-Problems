@@ -31,8 +31,8 @@ public:
                     start=i;
                 }
 
+                if(map[s[i]]==0) currRequired++;
                 map[s[i]]++;
-                if(map[s[i]]>0) currRequired++;
                 i++;
             }
             j++;
