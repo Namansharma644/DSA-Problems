@@ -11,18 +11,13 @@ public:
         {
             map[s[j]-'A']++;
             maxFreq=max(maxFreq,map[s[j]-'A']);
-            while(((j-i+1)-maxFreq)>k)
+            if(((j-i+1)-maxFreq)>k)
             {
                 map[s[i]-'A']--;
-                for(int i=0; i<26; i++)
-                {
-                    maxFreq=max(maxFreq,map[i]);
-                }
                 i++;
             }
 
             maxLen=max(maxLen,j-i+1);
-           
             j++;
         }
 
