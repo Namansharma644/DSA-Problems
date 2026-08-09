@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0224-basic-calculator) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0141-linked-list-cycle) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0567-permutation-in-string) |
