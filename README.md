@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0649-dota2-senate](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0649-dota2-senate) |
 | [0856-score-of-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0525-contiguous-array) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Heap (Priority Queue)
 |  |
