@@ -22,17 +22,7 @@ public:
                 freq2[s2[j]-'a']++;
             }
 
-            bool isSame=true;
-            for(int i=0; i<26; i++)
-            {
-                if(freq1[i]!=freq2[i])
-                {
-                    isSame=false;
-                    break;
-                }
-            }
-
-            if(isSame) return true;
+            if(freq1==freq2) return true;
         }
         return false;
     }
