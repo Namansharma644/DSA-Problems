@@ -21,10 +21,8 @@ public:
                 i++;
             }
 
-            if((j-i+1)-maxFreq<=k)
-            {
-                maxLen=max(maxLen,j-i+1);
-            }
+            maxLen=max(maxLen,j-i+1);
+           
             j++;
         }
 
