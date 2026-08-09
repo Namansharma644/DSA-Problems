@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0649-dota2-senate) |
 | [0856-score-of-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
