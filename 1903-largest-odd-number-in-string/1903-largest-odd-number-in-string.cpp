@@ -8,10 +8,9 @@ public:
         {
             if((num[i]-'0')%2 != 0)
             {
-                end=i;
-                break;
+                return num.substr(0,i+1);
             }
         }
-        return (end==-1) ? "" : num.substr(0,end+1);
+        return "";
     }
 };
