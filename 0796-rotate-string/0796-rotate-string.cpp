@@ -7,11 +7,17 @@ public:
 
         for(int r=1; r<=n; r++)
         {
-            string temp=s;
-           reverse(temp.begin(), temp.begin() + r);
-           reverse(temp.begin() + r, temp.end());
-            reverse(temp.begin(), temp.end());
-            if(temp==goal) return true;
+            bool ans=true;
+            for(int j=0; j<n; j++)
+            {
+                if(s[(j+r)%n]!=goal[j])
+                {
+                    ans=false;
+                    break;
+                }
+            }
+
+            if(ans) return true;
         }
         return false;
     }
