@@ -5,20 +5,8 @@ public:
         int n=s.size();
         if(m!=n) return false;
 
-        for(int r=1; r<=n; r++)
-        {
-            bool ans=true;
-            for(int j=0; j<n; j++)
-            {
-                if(s[(j+r)%n]!=goal[j])
-                {
-                    ans=false;
-                    break;
-                }
-            }
+        string temp=s+s;
 
-            if(ans) return true;
-        }
-        return false;
+        return temp.find(goal)!=string::npos;
     }
 };
