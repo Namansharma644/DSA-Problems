@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
