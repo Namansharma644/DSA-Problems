@@ -16,9 +16,10 @@ public:
             return 0;
 
         int i = 0;
-        int ans = n;
+        int j=0;
+        int ans = INT_MAX;
 
-        for (int j = 0; j < n; j++) {
+        while(j<n){
 
             mp[s[j]]--;
 
@@ -32,6 +33,7 @@ public:
                 mp[s[i]]++;
                 i++;
             }
+            j++;
         }
 
         return ans;
