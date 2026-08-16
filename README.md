@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1544-make-the-string-great) |
 | [1903-largest-odd-number-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
