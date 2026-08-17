@@ -10,43 +10,46 @@
  */
 class Solution {
 public:
-    ListNode* merge2List(ListNode* l1,ListNode* l2)
-    {
-        if(!l1) return l2;
-        if(!l2) return l1;
-
-        ListNode* res=NULL;
-        if(l1->val<l2->val)
-        {
-            res=l1;
-            res->next=merge2List(l1->next,l2);
-        }
-        else
-        {
-            res=l2;
-            res->next=merge2List(l1,l2->next);
-        }
-        return res;
-    }
-    ListNode*  partitonAndMerge(int si,int ei,vector<ListNode*>& lists)
-    {
-        if(si==ei)
-        {
-            return lists[si];
-        }
-
-        if(si>ei)
-        {
-            return NULL;
-        }
-        int mid=si+(ei-si)/2;
-        ListNode* l1=partitonAndMerge(si,mid,lists);
-        ListNode* l2=partitonAndMerge(mid+1,ei,lists);
-
-        return merge2List(l1,l2);
-    }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        int k=lists.size();
-        return partitonAndMerge(0,k-1,lists);
+        auto lambda=[](auto &node1,auto &node2){
+            return node1->val>node2->val;
+        };
+
+      priority_queue<ListNode*, vector<ListNode*>, decltype(lambda)> pq(lambda);
+
+        for(auto &node : lists)
+        {
+            if(node!=NULL)
+            {
+                pq.push(node);
+            }
+        }
+
+        if(pq.empty())  return NULL;
+
+        ListNode* head=pq.top();
+        pq.pop();
+        if(head->next)
+        {
+            pq.push(head->next);
+        }
+
+        ListNode* tail=head;
+
+        while(!pq.empty()){
+
+             ListNode* curr=pq.top();
+             pq.pop();
+
+             tail->next=curr;
+             tail=tail->next;
+
+             if(curr->next)
+             {
+                pq.push(curr->next);
+             }
+        }
+
+        return head;
     }
 };
