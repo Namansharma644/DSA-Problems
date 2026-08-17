@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1331-rank-transform-of-an-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1539-kth-missing-positive-number) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1331-rank-transform-of-an-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/3731-find-missing-elements) |
