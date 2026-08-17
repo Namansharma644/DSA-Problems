@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0739-daily-temperatures) |
+| [0846-hand-of-straights](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0904-fruit-into-baskets) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0846-hand-of-straights](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0846-hand-of-straights) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1331-rank-transform-of-an-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0649-dota2-senate](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0649-dota2-senate) |
+| [0846-hand-of-straights](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0846-hand-of-straights) |
 | [1903-largest-odd-number-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0567-permutation-in-string) |
+| [0846-hand-of-straights](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0992-subarrays-with-k-different-integers) |
