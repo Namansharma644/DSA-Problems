@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0493-reverse-pairs) |
 ## Math
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0621-task-scheduler) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0621-task-scheduler) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/3478-choose-k-elements-with-maximum-sum) |
@@ -400,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0621-task-scheduler) |
@@ -499,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bracket Sequences
 |  |
@@ -520,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Tournament Sort
 |  |
 | ------- |
