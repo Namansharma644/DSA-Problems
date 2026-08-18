@@ -29,6 +29,8 @@ public:
                 bucket[i].pop_back();
                 k--;
             }
+
+            if(k==0) break;
         }
         return res;
     }
