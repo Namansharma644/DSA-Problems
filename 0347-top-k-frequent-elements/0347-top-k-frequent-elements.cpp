@@ -9,19 +9,23 @@ public:
             m[a]++;
         }
 
-        vector<pair<int,int>>vec;
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
 
         for(auto &it : m)
         {
-            vec.push_back({it.second,it.first});
+            pq.push({it.second,it.first});
+
+            if(pq.size()>k)
+            {
+                pq.pop();
+            }
         }
 
-        sort(vec.begin(),vec.end(),greater<pair<int,int>>());
-
         vector<int>res;
-        for(int i=0; i<k; i++)
+        while(!pq.empty())
         {
-            res.push_back(vec[i].second);
+            res.push_back(pq.top().second);
+            pq.pop();
         }
         return res;
     }
