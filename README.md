@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0227-basic-calculator-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0846-hand-of-straights) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/3478-choose-k-elements-with-maximum-sum) |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0621-task-scheduler) |
+| [0973-k-closest-points-to-origin](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Monotonic Queue
 |  |
@@ -528,8 +533,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Tournament Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
