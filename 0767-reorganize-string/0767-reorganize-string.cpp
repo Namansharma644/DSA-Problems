@@ -4,51 +4,45 @@ public:
         int n=s.size();
         vector<int>map(26,0);
 
+        int maxFreq=0;
+        char maxFreqChar;
+
         for(char &c : s)
         {
             map[c-'a']++;
 
+            if(map[c-'a']>maxFreq)
+            {
+                maxFreq=map[c-'a'];
+                maxFreqChar=c;
+            }
+
             if(map[c-'a']>(n+1)/2) return "";
         }
 
-        priority_queue<pair<int,char>>pq;
+        string res=s;
+        int i=0;
+
+        while(map[maxFreqChar-'a']>0)
+        {
+            res[i]=maxFreqChar;
+            i+=2;
+            map[maxFreqChar-'a']--;
+        }
 
         for(char ch='a'; ch<='z'; ch++)
         {
-            if(map[ch-'a']>0)
-            {
-                pq.push({map[ch-'a'],ch});
-            }
-        }
-        
-        string res="";
-        while(pq.size()>=2)
-        {
-            auto p1=pq.top();
-            pq.pop();
-            auto p2=pq.top();
-            pq.pop();
+             while(map[ch-'a']>0)
+             {
+                if(i>=n)
+                {
+                    i=1;
+                }
 
-            res.push_back(p1.second);
-            p1.first--;
-
-            res.push_back(p2.second);
-            p2.first--;
-
-            if(p1.first>0)
-            {
-                pq.push(p1);
-            }
-
-            if(p2.first>0)
-            {
-                pq.push(p2);
-            }
-        }
-
-        if(!pq.empty())
-        {
-            res.push_back(pq.top().second);
+                res[i]=ch;
+                i+=2;
+                map[ch-'a']--;
+             }
         }
         return res;
     }
