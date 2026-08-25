@@ -37,7 +37,7 @@ public:
 
         while(i<path1.size() && j<path2.size())
         {
-            if(path1[i]->val!=path2[j]->val) return ans;
+            if(path1[i]!=path2[j]) return ans;
             ans=path1[i];
             i++;
             j++;
