@@ -34,7 +34,7 @@ public:
         while(!q.empty())
         {
             int n=q.size();
-            time++;
+           
 
             for(int i=0; i<n; i++)
             {
@@ -59,6 +59,7 @@ public:
                     vis.insert(parent[curr]->val);
                 }
             }
+            time++;
         }
         return time-1;
     }
