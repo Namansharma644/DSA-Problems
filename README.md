@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/3731-find-missing-elements) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0897-increasing-order-search-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0897-increasing-order-search-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -609,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0897-increasing-order-search-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
 | ------- |
