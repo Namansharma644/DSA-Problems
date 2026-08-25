@@ -11,32 +11,59 @@
  */
 class Solution {
 public:
-    int res=0;
-    int DFS(TreeNode* root,int start)
+    unordered_map<TreeNode*,TreeNode*>parent;
+    TreeNode* startNode=NULL;
+    void DFS(TreeNode* root,int start)
     {
-        if(root==NULL) return 0;
+        if(root==NULL) return;
+        if(root->val==start) startNode=root;
 
-        int leftHeight=DFS(root->left,start);
-        int rightHeight=DFS(root->right,start);
+        if(root->left) parent[root->left]=root;
+        DFS(root->left,start);
+        if(root->right) parent[root->right]=root;
+        DFS(root->right,start);
+    }
+    int BFS(TreeNode* startNode)
+    {
+        queue<TreeNode*>q;
+        unordered_set<int>vis;
+        q.push(startNode);
+        vis.insert(startNode->val);
+        int time=0;
 
-        if(root->val==start)
+        while(!q.empty())
         {
-            res=max(leftHeight,rightHeight);
-           return -1;
+            int n=q.size();
+            time++;
+
+            for(int i=0; i<n; i++)
+            {
+                TreeNode* curr=q.front();
+                q.pop();
+
+                if(curr->left && !vis.count(curr->left->val))
+                {
+                    q.push(curr->left);
+                    vis.insert(curr->left->val);
+                }
+
+                if(curr->right && !vis.count(curr->right->val))
+                {
+                    q.push(curr->right);
+                    vis.insert(curr->right->val);
+                }
+
+                if(parent.count(curr) && !vis.count(parent[curr]->val))
+                {
+                    q.push(parent[curr]);
+                    vis.insert(parent[curr]->val);
+                }
+            }
         }
-        else if(leftHeight>=0 && rightHeight>=0)
-        {
-           return max(leftHeight,rightHeight)+1;
-        }
-        else
-        {
-            int d=abs(leftHeight)+abs(rightHeight);
-            res=max(res,d);
-            return min(leftHeight,rightHeight)-1;
-        }
+        return time-1;
     }
     int amountOfTime(TreeNode* root, int start) {
         DFS(root,start);
-        return res;
+        return BFS(startNode);
     }
 };
