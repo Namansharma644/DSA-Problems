@@ -11,17 +11,13 @@
  */
 class Solution {
 public:
+    unordered_map<int,int>m;
     TreeNode* helper(vector<int>& preorder, vector<int>& inorder,int st,int end,int &idx)
     {
         if(st>end) return NULL;
 
         int rootVal=preorder[idx];
-        int i=st;
-        for(; i<=end; i++)
-        {
-            if(inorder[i]==rootVal)
-                break;
-        }
+        int i=m[rootVal];
         idx++;
         TreeNode* root=new TreeNode(rootVal);
 
@@ -33,6 +29,11 @@ public:
         int n=preorder.size();
         if(n==0) return NULL;
         int idx=0;
+
+        for(int i=0; i<n; i++)
+        {
+            m[inorder[i]]=i;
+        }
 
         return helper(preorder,inorder,0,n-1,idx);
     }
