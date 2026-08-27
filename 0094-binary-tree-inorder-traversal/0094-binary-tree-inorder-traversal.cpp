@@ -25,16 +25,22 @@ public:
             else
             {
                TreeNode* leftChild=curr->left;
-               while(leftChild->right!=NULL)
+               while(leftChild->right!=NULL && leftChild->right!=curr)
                {
                  leftChild=leftChild->right;
                }
 
-               leftChild->right=curr;
-
-               TreeNode* temp=curr;
-               curr=curr->left;
-               temp->left=NULL;
+               if(leftChild->right==NULL)
+               {
+                  leftChild->right=curr;
+                  curr=curr->left;
+               }
+               else
+               {
+                  leftChild->right=NULL;
+                  ans.push_back(curr->val);
+                  curr=curr->right;
+               }
             }
         }
         return ans;
