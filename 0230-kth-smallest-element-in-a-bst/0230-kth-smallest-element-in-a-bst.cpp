@@ -11,19 +11,42 @@
  */
 class Solution {
 public:
-    void helper(TreeNode* root,int k,int &count,int &ans)
-    {
-        if(root==NULL) return;
-
-        helper(root->left,k,count,ans);
-        count++;
-        if(count==k) ans=root->val;
-        helper(root->right,k,count,ans);
-    }
+   
     int kthSmallest(TreeNode* root, int k) {
-        int ans=-1;
         int count=0;
-        helper(root,k,count,ans);
+        int ans=-1;
+        TreeNode* curr=root;
+        while(curr)
+        {
+            if(curr->left==NULL)
+            {
+                count++;
+                if(count==k) ans=curr->val;
+                curr=curr->right;
+            }
+            else
+            {
+                TreeNode* prevNode=curr->left;
+
+                while(prevNode->right && prevNode->right!=curr)
+                {
+                    prevNode=prevNode->right;
+                }
+
+                if(prevNode->right==NULL)
+                {
+                    prevNode->right=curr;
+                    curr=curr->left;
+                }
+                else
+                {
+                   prevNode->right=NULL;
+                   count++;
+                   if(count==k) ans=curr->val;
+                   curr=curr->right;
+                }
+            }
+        }
         return ans;
     }
 };
