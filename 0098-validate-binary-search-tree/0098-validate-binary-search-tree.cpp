@@ -11,14 +11,41 @@
  */
 class Solution {
 public:
-    bool helper(TreeNode* root,long long minVal,long long maxVal)
-    {
-        if(root==NULL) return true;
-
-        if(root->val<=minVal || root->val>=maxVal) return false;
-        return helper(root->left,minVal,root->val) && helper(root->right,root->val,maxVal);
-    }
     bool isValidBST(TreeNode* root) {
-        return helper(root,LLONG_MIN,LLONG_MAX);
+         TreeNode* curr=root;
+         TreeNode* prev=NULL;
+         bool isVaild=true;
+
+         while(curr)
+         {
+            if(curr->left==NULL)
+            {
+                if(prev!=NULL && prev->val>=curr->val) isVaild=false;
+                prev=curr;
+                curr=curr->right;
+            }
+            else
+            {
+                TreeNode* leftChild=curr->left;
+                while(leftChild->right && leftChild->right!=curr)
+                {
+                    leftChild=leftChild->right;
+                }
+
+                if(leftChild->right==NULL)
+                {
+                    leftChild->right=curr;
+                    curr=curr->left;
+                }
+                else
+                {
+                    leftChild->right=NULL;
+                    if(prev!=NULL && prev->val>=curr->val) isVaild=false;
+                    prev=curr;
+                    curr=curr->right;
+                }
+            }
+         }
+         return isVaild;
     }
 };
