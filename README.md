@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1046-last-stone-weight) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Data Stream
 |  |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -666,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
@@ -685,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
