@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0189-rotate-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0125-valid-palindrome) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0735-asteroid-collision) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1260-shift-2d-grid) |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Iterator
 |  |
