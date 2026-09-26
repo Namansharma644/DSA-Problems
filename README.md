@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1046-last-stone-weight) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -809,11 +813,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bellman–Ford Algorithm
