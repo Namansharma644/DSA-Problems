@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0641-design-circular-deque) |
+| [0721-accounts-merge](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0739-daily-temperatures) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0846-hand-of-straights) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0649-dota2-senate) |
+| [0721-accounts-merge](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0856-score-of-parentheses) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1020-number-of-enclaves) |
@@ -668,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0778-swim-in-rising-water) |
@@ -693,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0778-swim-in-rising-water) |
