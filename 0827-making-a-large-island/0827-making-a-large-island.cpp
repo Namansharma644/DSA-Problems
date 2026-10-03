@@ -107,12 +107,9 @@ public:
                     int newCol=col+dir[1];
                     int adjNum=newRow*n+newCol;
                     
-                    if(isVaild(newRow,newCol,n))
+                    if(isVaild(newRow,newCol,n) && grid[newRow][newCol]==1)
                     {
-                       if(grid[newRow][newCol]==1)
-                       {
-                          s.insert(ds.findUlParent(adjNum));
-                       }
+                        s.insert(ds.findUlParent(adjNum));
                     }
                 }
 
