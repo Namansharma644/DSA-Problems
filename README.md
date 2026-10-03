@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0875-koko-eating-bananas) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1020-number-of-enclaves) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1020-number-of-enclaves) |
 ## Binary Indexed Tree
 |  |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -705,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0994-rotting-oranges) |
