@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Z Algorithm
 |  |
