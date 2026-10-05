@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0202-happy-number) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -860,4 +862,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0778-swim-in-rising-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
