@@ -693,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1020-number-of-enclaves) |
+| [1192-critical-connections-in-a-network](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1192-critical-connections-in-a-network) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -803,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1192-critical-connections-in-a-network](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
@@ -866,4 +868,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0070-climbing-stairs) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
