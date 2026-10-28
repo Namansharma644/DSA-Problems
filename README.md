@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0075-sort-colors) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0085-maximal-rectangle) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0118-pascals-triangle) |
