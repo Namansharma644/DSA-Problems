@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1463-cherry-pickup-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1020-number-of-enclaves) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1260-shift-2d-grid](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1260-shift-2d-grid) |
+| [1463-cherry-pickup-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1463-cherry-pickup-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1463-cherry-pickup-ii](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1463-cherry-pickup-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Namansharma644/https-github.com-Namansharma644-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
