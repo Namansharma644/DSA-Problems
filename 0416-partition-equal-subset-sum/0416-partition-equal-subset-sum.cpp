@@ -1,21 +1,36 @@
 class Solution {
 public:
-    bool helper(int i,int target,vector<int>&arr,int n,vector<vector<int>>&dp)
-    {
-        if(target==0) return true;
-        if(i==0) return (arr[0]==target);
-        if(dp[i][target]!=-1) return dp[i][target];
+    bool isSubsetSum(vector<int>arr, int target){
+       int n=arr.size();
+       vector<vector<bool>>dp(n,vector<bool>(target+1,false));
  
-        bool pick=false;
-        if(arr[i]<=target){
-            pick=helper(i-1,target-arr[i],arr,n,dp);
-        }
-        if(pick) return dp[i][target]=true;
-        bool notPick=helper(i-1,target,arr,n,dp);
-        if(notPick) return dp[i][target]=true;
+       for(int i=0; i<n; i++)
+       {
+          dp[i][0]=true;
+       }
+    
+      if(arr[0]<=target) dp[0][arr[0]] = true;
  
-        return dp[i][target]=(pick || notPick);
+       for(int i=1; i<n; i++)
+       {
+            for(int t=1; t<=target; t++)
+            {
+                bool pick=false;
+                bool notPick=false;
+ 
+                if(arr[i]<=t)
+                {
+                    pick=dp[i-1][t-arr[i]];
+                }
+ 
+                
+                notPick=dp[i-1][t];
+                dp[i][t]=(pick || notPick);
+            }
+       }
+       return dp[n-1][target];
     }
+
     bool canPartition(vector<int>& nums) {
         int n=nums.size();
         int totalSum=0;
@@ -28,7 +43,6 @@ public:
         if(totalSum % 2) return false;
         int target=totalSum/2;
        
-        vector<vector<int>>dp(n,vector<int>(target+1,-1));
-        return helper(n-1,target,nums,n,dp);
+        return isSubsetSum(nums,target);
     }
 };
