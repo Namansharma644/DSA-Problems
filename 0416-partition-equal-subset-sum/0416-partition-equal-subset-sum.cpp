@@ -2,17 +2,15 @@ class Solution {
 public:
     bool isSubsetSum(vector<int>arr, int target){
        int n=arr.size();
-       vector<vector<bool>>dp(n,vector<bool>(target+1,false));
- 
-       for(int i=0; i<n; i++)
-       {
-          dp[i][0]=true;
-       }
+       vector<bool>prev(target+1,false);
+       prev[0]=true;
+       if(arr[0]<=target) prev[arr[0]]=true;
     
-      if(arr[0]<=target) dp[0][arr[0]] = true;
  
        for(int i=1; i<n; i++)
        {
+            vector<bool>curr(target+1,false);
+            curr[0]=true;
             for(int t=1; t<=target; t++)
             {
                 bool pick=false;
@@ -20,15 +18,16 @@ public:
  
                 if(arr[i]<=t)
                 {
-                    pick=dp[i-1][t-arr[i]];
+                    pick=prev[t-arr[i]];
                 }
  
                 
-                notPick=dp[i-1][t];
-                dp[i][t]=(pick || notPick);
+                notPick=prev[t];
+                curr[t]=(pick || notPick);
             }
+            prev=curr;
        }
-       return dp[n-1][target];
+       return prev[target];
     }
 
     bool canPartition(vector<int>& nums) {
